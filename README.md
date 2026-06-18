@@ -8,7 +8,7 @@ A simple React Native + Expo app for students to track daily expenses, using Fir
 PersonalExpenseManager/
 ├── src/
 │   ├── components/
-│   │   └── ExpenseCard.js        # Single expense row UI (Edit/Delete buttons)
+│   │   └── ExpenseCard.js        # Single expense row UI (Edit/Delete buttons).
 │   ├── screens/
 │   │   ├── HomeScreen.js         # Lists all expenses (READ)
 │   │   ├── AddExpenseScreen.js   # Form to add a new expense (CREATE)
